@@ -1,2 +1,0 @@
-# projeto-squall
-Projeto Squall
